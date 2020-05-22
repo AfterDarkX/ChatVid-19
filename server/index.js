@@ -72,3 +72,7 @@ io.on("connection", (socket) => {
 });
 
 server.listen(PORT, () => console.log(`server is runing on port: ${PORT}`));
+
+
+
+console.log("WE")
